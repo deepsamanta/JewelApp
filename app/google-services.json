@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325343187070",
+    "project_id": "akash-jewellers-8caa8",
+    "storage_bucket": "akash-jewellers-8caa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325343187070:android:40c84515ec2928043c482f",
+        "android_client_info": {
+          "package_name": "com.example.akashjewellers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGV2H5W41Ezg5ZnufNCZ_tc_FcTKbQCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
